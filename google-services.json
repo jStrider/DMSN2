@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "391211419332",
+    "firebase_url": "https://dmsn-cca27.firebaseio.com",
+    "project_id": "dmsn-cca27",
+    "storage_bucket": "dmsn-cca27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391211419332:android:02350f3bede0ecf0",
+        "android_client_info": {
+          "package_name": "com.example.renaudjulien.dmsn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391211419332-386m95ejsnmb457u27cjq1he4o42r567.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.renaudjulien.dmsn",
+            "certificate_hash": "13cd417b0a1d78d01ce70e8227d8e39feb046091"
+          }
+        },
+        {
+          "client_id": "391211419332-fn171hjs5pkpal68jclrikilp28ivom6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZikhvEntb9OZK8HG3_9UsYqNSp3E7HRc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391211419332-fn171hjs5pkpal68jclrikilp28ivom6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

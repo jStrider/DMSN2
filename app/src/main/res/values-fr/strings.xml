@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DMSN</string>
+    <string name="l_login">Se connecter avec google</string>
+    <string name="l_newPost">Nouvelle publication</string>
+    <string name="l_comments">Commentaire</string>
+    <string name="l_next">Suivant</string>
+    <string name="l_post">Publier</string>
+    <string name="l_location">Position</string>
+    <string name="l_select">Choisissez</string>
+    <string name="l_useCamera">Utiliser la camera</string>
+    <string name="l_useGallery">Utiliser la gallerie</string>
+    <string name="l_SwipeLanguage">-> FR</string>
+</resources>

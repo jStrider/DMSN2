@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">DMSN</string>
+    <string name="l_login">Log-in with google</string>
+    <string name="serverId" translatable="false">251882347654-n8aghvkfpturd8lpv8egluaef56np3cd.apps.googleusercontent.com</string>
+    <string name="l_newPost">New Post</string>
+    <string name="title_activity_new_post" translatable="false">NewPostActivity</string>
+    <string name="l_comments">Comments</string>
+    <string name="l_next">Next</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="l_post">Post</string>
+    <string name="l_location">Location</string>
+    <string name="l_select">Select</string>
+    <string name="l_useCamera">Use camera</string>
+    <string name="l_useGallery">Use Gallery</string>
+    <string name="l_SwipeLanguage">-> EN</string>
+</resources>
